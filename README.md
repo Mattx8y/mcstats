@@ -1,0 +1,2 @@
+# mcstats
+McStats Discord Bot
